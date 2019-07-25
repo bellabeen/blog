@@ -1,6 +1,6 @@
-baseURL = "https://www.lombokfoss.com/"
+baseURL = "https://bellabeen.github.io"
 languageCode = "en-us"
-title = "Lombokfoss"
+title = "nerdybeen"
 disablePathToLower = false
 
 #themesDir = "themes"
@@ -9,7 +9,7 @@ theme = "Hugo-Octopress"
 
 # Disqus shortcode
 # Disable comments for any individual post by adding "comments: false" in its frontmatter
-disqusShortname = "lombokfoss"
+disqusShortname = "bellabeen"
 
 
 
@@ -35,7 +35,7 @@ post = "/:slug/"
     author = "Ardianta Pargo"
 
     # This text appears in site header under website title
-    subtitle = "Blog Pengguna Linux dari Lombok"
+    subtitle = "Catatan Belajar dan Timbunan Ilmu"
 
     # Search engine URL
     searchEngineURL = "https://www.google.com/search"
